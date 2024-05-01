@@ -1,2 +1,2 @@
 # soduko-solver
-AI sudoku Solver
+AI sudoku Solver using constraint satisfaction and backtracking. 
